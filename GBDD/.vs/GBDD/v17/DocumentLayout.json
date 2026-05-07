@@ -1,0 +1,556 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arina\\source\\repos\\GBDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|c:\\users\\arina\\source\\repos\\gbdd\\gbdd\\pages\\releasecarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\pages\\releasecarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\pages\\reportspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\pages\\reportspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\pages\\releasecarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\pages\\releasecarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\pages\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\pages\\adminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\pages\\reportspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\pages\\reportspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\pages\\acceptcarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\pages\\acceptcarpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\pages\\carcardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\pages\\carcardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\models\\vehiclephoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\models\\vehiclephoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\models\\vehicleowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\models\\vehicleowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\models\\vehiclecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\models\\vehiclecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\models\\damagezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\models\\damagezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\data\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\data\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\data\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\data\\reportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\data\\reportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\data\\releasecarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\data\\releasecarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\models\\carmake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\models\\carmake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\pages\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\pages\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\pages\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\pages\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\pages\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\pages\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\pages\\acceptcarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\pages\\acceptcarpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\data\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\data\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\data\\acceptcarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\data\\acceptcarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|C:\\Users\\arina\\source\\repos\\GBDD\\gbdd\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8D8BE637-D6D8-4DA4-BB29-9A733034B365}|GBDD\\GBDD.csproj|solutionrelative:gbdd\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReleaseCarPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\ReleaseCarPage.xaml.cs",
+              "RelativeDocumentMoniker": "GBDD\\Pages\\ReleaseCarPage.xaml.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\ReleaseCarPage.xaml.cs",
+              "RelativeToolTip": "GBDD\\Pages\\ReleaseCarPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T08:10:43.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\ReportsPage.xaml",
+              "RelativeDocumentMoniker": "GBDD\\Pages\\ReportsPage.xaml",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\ReportsPage.xaml",
+              "RelativeToolTip": "GBDD\\Pages\\ReportsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T10:04:14.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminPage.xaml",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\AdminPage.xaml",
+              "RelativeDocumentMoniker": "GBDD\\Pages\\AdminPage.xaml",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\AdminPage.xaml",
+              "RelativeToolTip": "GBDD\\Pages\\AdminPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T10:03:59.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\App.xaml",
+              "RelativeDocumentMoniker": "GBDD\\App.xaml",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\App.xaml",
+              "RelativeToolTip": "GBDD\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T06:13:15.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\App.xaml.cs",
+              "RelativeDocumentMoniker": "GBDD\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\App.xaml.cs",
+              "RelativeToolTip": "GBDD\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T18:27:42.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\ReportsPage.xaml.cs",
+              "RelativeDocumentMoniker": "GBDD\\Pages\\ReportsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\ReportsPage.xaml.cs",
+              "RelativeToolTip": "GBDD\\Pages\\ReportsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:29:30.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReleaseCarPage.xaml",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\ReleaseCarPage.xaml",
+              "RelativeDocumentMoniker": "GBDD\\Pages\\ReleaseCarPage.xaml",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\ReleaseCarPage.xaml",
+              "RelativeToolTip": "GBDD\\Pages\\ReleaseCarPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T10:04:09.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\AdminPage.xaml.cs",
+              "RelativeDocumentMoniker": "GBDD\\Pages\\AdminPage.xaml.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\AdminPage.xaml.cs",
+              "RelativeToolTip": "GBDD\\Pages\\AdminPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAPAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T08:02:54.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VehiclePhoto.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\VehiclePhoto.cs",
+              "RelativeDocumentMoniker": "GBDD\\Models\\VehiclePhoto.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\VehiclePhoto.cs",
+              "RelativeToolTip": "GBDD\\Models\\VehiclePhoto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:11:05.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AcceptCarPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\AcceptCarPage.xaml.cs",
+              "RelativeDocumentMoniker": "GBDD\\Pages\\AcceptCarPage.xaml.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\AcceptCarPage.xaml.cs",
+              "RelativeToolTip": "GBDD\\Pages\\AcceptCarPage.xaml.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T08:36:36.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DamageZone.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\DamageZone.cs",
+              "RelativeDocumentMoniker": "GBDD\\Models\\DamageZone.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\DamageZone.cs",
+              "RelativeToolTip": "GBDD\\Models\\DamageZone.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:07:37.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CarMake.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\CarMake.cs",
+              "RelativeDocumentMoniker": "GBDD\\Models\\CarMake.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\CarMake.cs",
+              "RelativeToolTip": "GBDD\\Models\\CarMake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:07:35.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VehicleOwner.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\VehicleOwner.cs",
+              "RelativeDocumentMoniker": "GBDD\\Models\\VehicleOwner.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\VehicleOwner.cs",
+              "RelativeToolTip": "GBDD\\Models\\VehicleOwner.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:10:58.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MenuPage.xaml",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\MenuPage.xaml",
+              "RelativeDocumentMoniker": "GBDD\\Pages\\MenuPage.xaml",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\MenuPage.xaml",
+              "RelativeToolTip": "GBDD\\Pages\\MenuPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T10:04:08.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "GBDD\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "GBDD\\Pages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T10:04:05.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GBDD\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GBDD\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwBwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T12:06:32.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "GBDD\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Services\\AuthService.cs",
+              "RelativeToolTip": "GBDD\\Services\\AuthService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:12:45.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GBDD\\Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "GBDD\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T11:34:27.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarCardPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\CarCardPage.xaml.cs",
+              "RelativeDocumentMoniker": "GBDD\\Pages\\CarCardPage.xaml.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\CarCardPage.xaml.cs",
+              "RelativeToolTip": "GBDD\\Pages\\CarCardPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:03:05.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\CarModel.cs",
+              "RelativeDocumentMoniker": "GBDD\\Models\\CarModel.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\CarModel.cs",
+              "RelativeToolTip": "GBDD\\Models\\CarModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:10:48.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "GBDD\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\Role.cs",
+              "RelativeToolTip": "GBDD\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:10:52.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GBDD\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\User.cs",
+              "RelativeToolTip": "GBDD\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:10:53.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VehicleCategory.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\VehicleCategory.cs",
+              "RelativeDocumentMoniker": "GBDD\\Models\\VehicleCategory.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\VehicleCategory.cs",
+              "RelativeToolTip": "GBDD\\Models\\VehicleCategory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:10:56.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReleaseCarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Data\\ReleaseCarRepository.cs",
+              "RelativeDocumentMoniker": "GBDD\\Data\\ReleaseCarRepository.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Data\\ReleaseCarRepository.cs",
+              "RelativeToolTip": "GBDD\\Data\\ReleaseCarRepository.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowFgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:07:44.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "GBDD\\Models\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Models\\PaymentMethod.cs",
+              "RelativeToolTip": "GBDD\\Models\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:07:39.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DashboardPage.xaml",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\DashboardPage.xaml",
+              "RelativeDocumentMoniker": "GBDD\\Pages\\DashboardPage.xaml",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\DashboardPage.xaml",
+              "RelativeToolTip": "GBDD\\Pages\\DashboardPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T10:03:52.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DashboardPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\DashboardPage.xaml.cs",
+              "RelativeDocumentMoniker": "GBDD\\Pages\\DashboardPage.xaml.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\DashboardPage.xaml.cs",
+              "RelativeToolTip": "GBDD\\Pages\\DashboardPage.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:03:43.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Data\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "GBDD\\Data\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Data\\PasswordHasher.cs",
+              "RelativeToolTip": "GBDD\\Data\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T08:38:00.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Data\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "GBDD\\Data\\DashboardRepository.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Data\\DashboardRepository.cs",
+              "RelativeToolTip": "GBDD\\Data\\DashboardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T08:37:53.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AcceptCarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Data\\AcceptCarRepository.cs",
+              "RelativeDocumentMoniker": "GBDD\\Data\\AcceptCarRepository.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Data\\AcceptCarRepository.cs",
+              "RelativeToolTip": "GBDD\\Data\\AcceptCarRepository.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAwwEEBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T08:36:44.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AcceptCarPage.xaml",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\AcceptCarPage.xaml",
+              "RelativeDocumentMoniker": "GBDD\\Pages\\AcceptCarPage.xaml",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Pages\\AcceptCarPage.xaml",
+              "RelativeToolTip": "GBDD\\Pages\\AcceptCarPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-04T08:30:24.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Data\\DBConnection.cs",
+              "RelativeDocumentMoniker": "GBDD\\Data\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Data\\DBConnection.cs",
+              "RelativeToolTip": "GBDD\\Data\\DBConnection.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T06:13:04.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\App.config",
+              "RelativeDocumentMoniker": "GBDD\\App.config",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\App.config",
+              "RelativeToolTip": "GBDD\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-04T06:13:20.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReportsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Data\\ReportsRepository.cs",
+              "RelativeDocumentMoniker": "GBDD\\Data\\ReportsRepository.cs",
+              "ToolTip": "C:\\Users\\arina\\source\\repos\\GBDD\\GBDD\\Data\\ReportsRepository.cs",
+              "RelativeToolTip": "GBDD\\Data\\ReportsRepository.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAADwv6UAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T16:45:01.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

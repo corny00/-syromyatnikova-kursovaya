@@ -1,0 +1,12 @@
+﻿<Window x:Class="GBDD.Windows.PhotoViewerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Просмотр фотографии" Height="600" Width="800"
+        WindowStartupLocation="CenterScreen" Background="White">
+    <Grid>
+        <ScrollViewer x:Name="scrollViewer" HorizontalScrollBarVisibility="Auto" 
+                      VerticalScrollBarVisibility="Auto" CanContentScroll="True">
+            <Image x:Name="imgPhoto" Stretch="Uniform" RenderOptions.BitmapScalingMode="HighQuality"/>
+        </ScrollViewer>
+    </Grid>
+</Window>

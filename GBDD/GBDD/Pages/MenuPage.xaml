@@ -1,0 +1,40 @@
+﻿<Page x:Class="GBDD.Pages.MenuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GBDD.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="80" d:DesignWidth="800"
+      Title="MenuPage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Orientation="Vertical"  VerticalAlignment="Center">
+            <Image Source="/Resourses/Gibdd_logo.png" Width="60" Stretch="Uniform"></Image>
+            <TextBlock Text="ГИБДД" TextAlignment="Center" FontWeight="Bold" FontSize="16" Foreground="#1565C0"></TextBlock>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Главная" Style="{StaticResource MenuButtonStyle}" 
+                        Click="Dashboard_Click" Margin="5,0" x:Name="btnDashboard"></Button>
+            <Button Content="Принять авто" Style="{StaticResource MenuButtonStyle}" 
+                        Click="AcceptCar_Click" Margin="5,0" x:Name="btnAccept"></Button>
+            <Button Content=" Отчёты" Style="{StaticResource MenuButtonStyle}" Click="Reports_Click" Margin="5,0" x:Name="btnReports" Visibility="Visible"></Button>
+            <Button Content="Админ" Style="{StaticResource MenuButtonStyle}"  Click="Admin_Click" Margin="5,0" x:Name="btnAdmin"></Button>
+        </StackPanel>
+
+        <StackPanel Grid.Column="2" Orientation="Horizontal" Margin="0,0,20,0" VerticalAlignment="Center">
+            <StackPanel Margin="0,0,15,0" VerticalAlignment="Center">
+                <TextBlock x:Name="lblUserName" Text="Пользователь" FontSize="12" FontWeight="SemiBold" Foreground="#333333"></TextBlock>
+                <TextBlock x:Name="lblUserRole" Text="Роль" FontSize="10" Foreground="#78909C"></TextBlock>
+            </StackPanel>
+            <Button Content="Выход" Style="{StaticResource MenuButtonStyle}"  Click="Logout_Click" Background="#FFEBEE" Width="80"></Button>
+        </StackPanel>
+    </Grid>
+</Page>
